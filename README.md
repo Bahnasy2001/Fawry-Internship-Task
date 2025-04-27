@@ -22,6 +22,7 @@ Build a small version of `grep` using a Bash script.
 - `./mygrep.sh -n hello testfile.txt`
 - `./mygrep.sh -vn hello testfile.txt`
 - `./mygrep.sh -v testfile.txt` (should warn: missing search string)
+- `./mygrep.sh --help`
 
 ---
 
